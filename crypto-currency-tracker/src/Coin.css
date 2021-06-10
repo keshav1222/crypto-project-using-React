@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;700&display=swap');
+.coin-container{
+    
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+
+
+}
